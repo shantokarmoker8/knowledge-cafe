@@ -1,0 +1,46 @@
+[
+  {
+    "id": 987654,
+    "cover": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "title": "The Secret Garden",
+    "author": "Samantha Green",
+    "author_img": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "posted_date": "2024-03-10",
+    "reading": 3200,
+    "time": "2 hours",
+    "hashtags": "#fiction #classic #gardening"
+  },
+  {
+    "id": 123456,
+    "cover": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "title": "Beyond the Horizon",
+    "author": "Jacob Smith",
+    "author_img": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "posted_date": "2024-03-11",
+    "reading": 1800,
+    "time": "1.5 hours",
+    "hashtags": "#adventure #fantasy #worldbuilding"
+  },
+  {
+    "id": 456789,
+    "cover": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "title": "The Time Traveler's Guide",
+    "author": "Emily White",
+    "author_img": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "posted_date": "2024-03-09",
+    "reading": 2500,
+    "time": "2 hours",
+    "hashtags": "#sciencefiction #time #travel"
+  },
+  {
+    "id": 789123,
+    "cover": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "title": "Midnight Serenade",
+    "author": "Michael Black",
+    "author_img": "https://i.ibb.co/MRLgn7L/Screenshot-8.png",
+    "posted_date": "2024-03-12",
+    "reading": 1500,
+    "time": "1 hour",
+    "hashtags": "#mystery #thriller #noir"
+  }
+]
