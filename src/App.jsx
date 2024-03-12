@@ -5,10 +5,12 @@ import Bookmarks from "./components/Bookmarks/Bookmarks";
 function App() {
   return (
     <>
-      <Header></Header>
-      <div className="container mx-auto md:flex lg:flex">
-        <Blogs></Blogs>
-        <Bookmarks></Bookmarks>
+      <div className="max-w-7xl mx-auto">
+        <Header></Header>
+        <div className=" mx-auto md:flex lg:flex">
+          <Blogs></Blogs>
+          <Bookmarks></Bookmarks>
+        </div>
       </div>
     </>
   );
